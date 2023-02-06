@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-sync-scripts */
 
 import Head from 'next/head'
-import Script from 'next/Script'
+import Script from 'next/script'
 import React, { useState, useEffect } from 'react'
 import CountUp from "react-countup";
 import { useRouter } from 'next/router';
