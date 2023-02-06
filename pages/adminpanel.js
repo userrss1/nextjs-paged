@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-sync-scripts */
 import React, { useState, useEffect } from 'react'
 import Head from 'next/head'
-import Script from 'next/Script'
+import Script from 'next/script'
 
 const adminpanel = () => {
     const [showResults, setShowResults] = useState(false)
