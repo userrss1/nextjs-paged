@@ -2,16 +2,22 @@
   "name": "nextjs-project",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:4000",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "firebase": "^9.16.0",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-countup": "^6.4.1",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "reactjs-popup": "^2.0.5"
   }
 }
