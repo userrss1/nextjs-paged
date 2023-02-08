@@ -76,7 +76,7 @@ const nextjsapp = () => {
                     <nav className="navbar navbar-expand-lg bg-none px-5">
                         <a className="navbar-brand" href="#">
                             <div className="logo-wraper">
-                                <img className="img-fluid" src="../Tripocio_Logo.png" alt="Image" />
+                                <img className="img-fluid" src="../Tripocio_Logo.PNG" alt="Image" />
                             </div>
                         </a>
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -119,7 +119,7 @@ const nextjsapp = () => {
                                         <li>-Driver Tips included</li>
                                         <li>-Professional & Knowledgeable Tour manager</li>
                                     </ul>
-                                   <a href="tel:7905475322"><button className="btn callnow-btn">Call Now</button></a>
+                                    <a href="tel:7905475322"><button className="btn callnow-btn">Call Now</button></a>
                                     <a href="https://wa.me"><button className="btn whatsapp-btn">Whatsapp Now</button></a>
                                 </div>
                             </div>
@@ -186,7 +186,7 @@ const nextjsapp = () => {
                                     <div className="package-card-wraper">
                                         <div className="package-card">
                                             <div className="package-card-img">
-                                                <img src="../packagecard1.png" className="img-fluid" alt="Image" />
+                                                <img src="../packagecard1.PNG" className="img-fluid" alt="Image" />
                                                 <div className="image-overlay">
                                                     <div className="overlay-inner">
                                                         <h3>Fascinating Kashmir</h3>
@@ -220,19 +220,19 @@ const nextjsapp = () => {
                                                     <li className="icon-wraper">
                                                         <div className="icon-box">
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../hotel.png" alt="Image" />
+                                                                <img className="img-fluid" src="../hotel.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../airport.png" alt="Image" />
+                                                                <img className="img-fluid" src="../airport.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../binocula.png" alt="Image" />
+                                                                <img className="img-fluid" src="../binocula.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                         </div>
                                                         <div className="jurneydetail">
@@ -252,7 +252,7 @@ const nextjsapp = () => {
                                     <div className="package-card-wraper">
                                         <div className="package-card">
                                             <div className="package-card-img">
-                                                <img src="../packagecard2.png" className="img-fluid" alt="Image" />
+                                                <img src="../packagecard2.PNG" className="img-fluid" alt="Image" />
                                                 <div className="image-overlay">
                                                     <div className="overlay-inner">
                                                         <h3>Heavenly Kashmir</h3>
@@ -285,19 +285,19 @@ const nextjsapp = () => {
                                                     <li className="icon-wraper">
                                                         <div className="icon-box">
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../hotel.png" alt="Image" />
+                                                                <img className="img-fluid" src="../hotel.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../airport.png" alt="Image" />
+                                                                <img className="img-fluid" src="../airport.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../binocula.png" alt="Image" />
+                                                                <img className="img-fluid" src="../binocula.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                         </div>
                                                         <div className="jurneydetail">
@@ -317,7 +317,7 @@ const nextjsapp = () => {
                                     <div className="package-card-wraper">
                                         <div className="package-card">
                                             <div className="package-card-img">
-                                                <img src="../packagecard3.png" className="img-fluid" alt="Image" />
+                                                <img src="../packagecard3.PNG" className="img-fluid" alt="Image" />
                                                 <div className="image-overlay">
                                                     <div className="overlay-inner">
                                                         <h3>Glimpses Of Kashmir Valley</h3>
@@ -350,19 +350,19 @@ const nextjsapp = () => {
                                                     <li className="icon-wraper">
                                                         <div className="icon-box">
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../hotel.png" alt="Image" />
+                                                                <img className="img-fluid" src="../hotel.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../airport.png" alt="Image" />
+                                                                <img className="img-fluid" src="../airport.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../binocula.png" alt="Image" />
+                                                                <img className="img-fluid" src="../binocula.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                         </div>
                                                         <div className="jurneydetail">
@@ -382,7 +382,7 @@ const nextjsapp = () => {
                                     <div className="package-card-wraper">
                                         <div className="package-card">
                                             <div className="package-card-img">
-                                                <img src="../packagecard4.png" className="img-fluid" alt="Image" />
+                                                <img src="../packagecard4.PNG" className="img-fluid" alt="Image" />
                                                 <div className="image-overlay">
                                                     <div className="overlay-inner">
                                                         <h3>Honeymoon in Kashmir</h3>
@@ -415,19 +415,19 @@ const nextjsapp = () => {
                                                     <li className="icon-wraper">
                                                         <div className="icon-box">
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../hotel.png" alt="Image" />
+                                                                <img className="img-fluid" src="../hotel.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../airport.png" alt="Image" />
+                                                                <img className="img-fluid" src="../airport.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../binocula.png" alt="Image" />
+                                                                <img className="img-fluid" src="../binocula.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                         </div>
                                                         <div className="jurneydetail">
@@ -447,7 +447,7 @@ const nextjsapp = () => {
                                     <div className="package-card-wraper">
                                         <div className="package-card">
                                             <div className="package-card-img">
-                                                <img src="../packagecard5.png" className="img-fluid" alt="Image" />
+                                                <img src="../packagecard5.PNG" className="img-fluid" alt="Image" />
                                                 <div className="image-overlay">
                                                     <div className="overlay-inner">
                                                         <h3>Stunning Kashmir </h3>
@@ -480,19 +480,19 @@ const nextjsapp = () => {
                                                     <li className="icon-wraper">
                                                         <div className="icon-box">
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../hotel.png" alt="Image" />
+                                                                <img className="img-fluid" src="../hotel.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../airport.png" alt="Image" />
+                                                                <img className="img-fluid" src="../airport.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../binocula.png" alt="Image" />
+                                                                <img className="img-fluid" src="../binocula.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                         </div>
                                                         <div className="jurneydetail">
@@ -512,7 +512,7 @@ const nextjsapp = () => {
                                     <div className="package-card-wraper">
                                         <div className="package-card">
                                             <div className="package-card-img">
-                                                <img src="../packagecard5.png" className="img-fluid" alt="Image" />
+                                                <img src="../packagecard5.PNG" className="img-fluid" alt="Image" />
                                                 <div className="image-overlay">
                                                     <div className="overlay-inner">
                                                         <h3>Kashmir 6</h3>
@@ -545,19 +545,19 @@ const nextjsapp = () => {
                                                     <li className="icon-wraper">
                                                         <div className="icon-box">
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../hotel.png" alt="Image" />
+                                                                <img className="img-fluid" src="../hotel.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../airport.png" alt="Image" />
+                                                                <img className="img-fluid" src="../airport.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../binocula.png" alt="Image" />
+                                                                <img className="img-fluid" src="../binocula.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                             <div className="package-ico">
-                                                                <img className="img-fluid" src="../24hour.png" alt="Image" />
+                                                                <img className="img-fluid" src="../24hour.PNG" alt="Image" />
                                                             </div>
                                                         </div>
                                                         <div className="jurneydetail">
@@ -610,7 +610,7 @@ const nextjsapp = () => {
                                                 </div>
                                                 <div className="col-lg-5 col-md-10 col-sm-12">
                                                     <div className="visit-card-right">
-                                                        <img className="img-fluid" src="../Rectangle_16.png" alt="Image" />
+                                                        <img className="img-fluid" src="../Rectangle_16.PNG" alt="Image" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -621,7 +621,7 @@ const nextjsapp = () => {
                                             <div className="row">
                                                 <div className="col-lg-5 col-md-10 col-sm-12">
                                                     <div className="visit-card-right">
-                                                        <img className="img-fluid" src="../Rectangle_16_fh.png" alt="Image" />
+                                                        <img className="img-fluid" src="../Rectangle_16_fh.PNG" alt="Image" />
                                                     </div>
                                                 </div>
                                                 <div className="col-lg-7 col-md-10 col-sm-12">
@@ -668,7 +668,7 @@ const nextjsapp = () => {
                                                 </div>
                                                 <div className="col-lg-5 col-md-10 col-sm-12">
                                                     <div className="visit-card-right">
-                                                        <img className="img-fluid" src="../Rectangle_16_fg.png" alt="Image" />
+                                                        <img className="img-fluid" src="../Rectangle_16_fg.PNG" alt="Image" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -689,17 +689,17 @@ const nextjsapp = () => {
                                             <h2>Talk to a Kashmir destination expert now!</h2>
                                             <button className="btn">Whatsapp Now</button>
                                             {/* <!-- <div id="Mask_Group">
-                                                                    <img id="Rectangle_154" src="../Rectangle_154.png" srcset="../Rectangle_154.png 1x">
+                                                                    <img id="Rectangle_154" src="../Rectangle_154.PNG" srcset="../Rectangle_154.PNG 1x">
                                                                 </div> --> */}
                                         </div>
                                     </div>
                                     <div className="talk-logo-round">
                                         <div className="talk-logo">
-                                            <img src="../whattsapp.png" alt="Image" className="img-fluid" />
+                                            <img src="../whattsapp.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                     {/* <!-- <div className="talk-left-obje">
-                                                            <img src="../Rectangle_154.png" className="img-fluid" alt="Image">
+                                                            <img src="../Rectangle_154.PNG" className="img-fluid" alt="Image">
                                                         </div> --> */}
                                 </div>
                             </div>
@@ -715,28 +715,28 @@ const nextjsapp = () => {
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler1.png" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler1.PNG" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler2.png" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler2.PNG" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler3.png" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler3.PNG" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler4.png" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler4.PNG" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -744,10 +744,10 @@ const nextjsapp = () => {
                                 <h1>
                                     <div className="row large">
                                         <div className="imagegroup" style={{ border: '2px solid white' }}>
-                                            <img src="../recent-traveler1.png" />
-                                            <img src="../recent-traveler2.png" />
-                                            <img src="../recent-traveler3.png" />
-                                            <img src="../recent-traveler4.png" />
+                                            <img src="../recent-traveler1.PNG" />
+                                            <img src="../recent-traveler2.PNG" />
+                                            <img src="../recent-traveler3.PNG" />
+                                            <img src="../recent-traveler4.PNG" />
                                         </div>
                                     </div>
                                 </h1>
@@ -781,27 +781,27 @@ const nextjsapp = () => {
                                     <div className="award-main">
                                         <div className="award-box-wraper">
                                             <div className="award-box">
-                                                <img src="../Untitled-1-01.png" alt="Image" className="img-fluid" />
+                                                <img src="../Untitled-1-01.PNG" alt="Image" className="img-fluid" />
                                             </div>
                                         </div>
                                         <div className="award-box-wraper">
                                             <div className="award-box">
-                                                <img src="../Untitled-1-02.png" alt="Image" className="img-fluid" />
+                                                <img src="../Untitled-1-02.PNG" alt="Image" className="img-fluid" />
                                             </div>
                                         </div>
                                         <div className="award-box-wraper">
                                             <div className="award-box">
-                                                <img src="../Untitled-1-03.png" alt="Image" className="img-fluid" />
+                                                <img src="../Untitled-1-03.PNG" alt="Image" className="img-fluid" />
                                             </div>
                                         </div>
                                         <div className="award-box-wraper">
                                             <div className="award-box">
-                                                <img src="../Untitled-1-04.png" alt="Image" className="img-fluid" />
+                                                <img src="../Untitled-1-04.PNG" alt="Image" className="img-fluid" />
                                             </div>
                                         </div>
                                         <div className="award-box-wraper">
                                             <div className="award-box">
-                                                <img src="../Untitled-1-05.png" alt="Image" className="img-fluid" />
+                                                <img src="../Untitled-1-05.PNG" alt="Image" className="img-fluid" />
                                             </div>
                                         </div>
                                     </div>
@@ -820,28 +820,28 @@ const nextjsapp = () => {
                                         <div className="col-lg-3 col-md-6 col-sm-12">
                                             <div className="membership-box-wraper">
                                                 <div className="membership-box">
-                                                    <img src="../Untitled-2-01.png" alt="Image" className="img-fluid" />
+                                                    <img src="../Untitled-2-01.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="col-lg-3 col-md-6 col-sm-12">
                                             <div className="membership-box-wraper">
                                                 <div className="membership-box">
-                                                    <img src="../Untitled-2-02.png" alt="Image" className="img-fluid" />
+                                                    <img src="../Untitled-2-02.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="col-lg-3 col-md-6 col-sm-12">
                                             <div className="membership-box-wraper">
                                                 <div className="membership-box">
-                                                    <img src="../Untitled-2-03.png" alt="Image" className="img-fluid" />
+                                                    <img src="../Untitled-2-03.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="col-lg-3 col-md-6 col-sm-12">
                                             <div className="membership-box-wraper">
                                                 <div className="membership-box">
-                                                    <img src="../Untitled-2-04.png" alt="Image" className="img-fluid" />
+                                                    <img src="../Untitled-2-04.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                         </div>
@@ -861,7 +861,7 @@ const nextjsapp = () => {
                                         <div className="choose-us-card">
                                             <div className="choose-us-card-ico">
                                                 <div className="icon-box" style={{ backgroundColor: 'rgb(127 209 155)' }}>
-                                                    <img src="../choose-img6.png" alt="Image" className="img-fluid" />
+                                                    <img src="../choose-img6.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="choose-us-card-text">
@@ -878,7 +878,7 @@ const nextjsapp = () => {
                                         <div className="choose-us-card">
                                             <div className="choose-us-card-ico">
                                                 <div className="icon-box" style={{ backgroundColor: 'rgb(236 219 132)' }}>
-                                                    <img src="../choose-img5.png" alt="Image" className="img-fluid" />
+                                                    <img src="../choose-img5.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="choose-us-card-text">
@@ -896,7 +896,7 @@ const nextjsapp = () => {
                                         <div className="choose-us-card">
                                             <div className="choose-us-card-ico">
                                                 <div className="icon-box" style={{ backgroundColor: 'rgb(242 144 117)' }}>
-                                                    <img src="../choose-img4.png" alt="Image" className="img-fluid" />
+                                                    <img src="../choose-img4.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="choose-us-card-text">
@@ -913,7 +913,7 @@ const nextjsapp = () => {
                                         <div className="choose-us-card">
                                             <div className="choose-us-card-ico">
                                                 <div className="icon-box" style={{ backgroundColor: 'rgba(125,160,221,1)' }}>
-                                                    <img src="../choose-img3.png" alt="Image" className="img-fluid" />
+                                                    <img src="../choose-img3.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="choose-us-card-text">
@@ -930,7 +930,7 @@ const nextjsapp = () => {
                                         <div className="choose-us-card">
                                             <div className="choose-us-card-ico">
                                                 <div className="icon-box " style={{ backgroundColor: 'rgba(241,117,196,1)' }}>
-                                                    <img src="../choose-img1.png" alt="Image" className="img-fluid" />
+                                                    <img src="../choose-img1.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="choose-us-card-text">
@@ -947,7 +947,7 @@ const nextjsapp = () => {
                                         <div className="choose-us-card">
                                             <div className="choose-us-card-ico">
                                                 <div className="icon-box" style={{ backgroundColor: 'rgba(63,225,225,1);' }}>
-                                                    <img src="../choose-img2.png" alt="Image" className="img-fluid" />
+                                                    <img src="../choose-img2.PNG" alt="Image" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="choose-us-card-text">
@@ -965,7 +965,7 @@ const nextjsapp = () => {
                                                         <div className="choose-us-inner">
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
-                                                                    <div className="icon-box" style={{backgroundColor:'rgb(127 209 155);">'}}                                                                       <img src="../choose-img6.png" alt="Image" className="img-fluid">
+                                                                    <div className="icon-box" style={{backgroundColor:'rgb(127 209 155);">'}}                                                                       <img src="../choose-img6.PNG" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -979,7 +979,7 @@ const nextjsapp = () => {
                                                         <div className="choose-us-inner">
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
-                                                                    <div className="icon-box" style={{backgroundColor:'rgb(236 219 132)">'}}                                                                      <img src="../choose-img5.png" alt="Image" className="img-fluid">
+                                                                    <div className="icon-box" style={{backgroundColor:'rgb(236 219 132)">'}}                                                                      <img src="../choose-img5.PNG" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -994,7 +994,7 @@ const nextjsapp = () => {
                                                         <div className="choose-us-inner">
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
-                                                                    <div className="icon-box" style={{backgroundColor:' rgb(242 144 117);"'}}                                                                        <img src="../choose-img4.png" alt="Image" className="img-fluid">
+                                                                    <div className="icon-box" style={{backgroundColor:' rgb(242 144 117);"'}}                                                                        <img src="../choose-img4.PNG" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1009,7 +1009,7 @@ const nextjsapp = () => {
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
                                                                     <div className="icon-box" style={{backgroundColor:'rgba(125,160,221,1)'}}>
-                                                                        <img src="../choose-img3.png" alt="Image" className="img-fluid">
+                                                                        <img src="../choose-img3.PNG" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1024,7 +1024,7 @@ const nextjsapp = () => {
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
                                                                     <div className="icon-box " style={{backgroundColor:'rgba(241,117,196,1)'}}>
-                                                                        <img src="../choose-img1.png" alt="Image" className="img-fluid">
+                                                                        <img src="../choose-img1.PNG" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1039,7 +1039,7 @@ const nextjsapp = () => {
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
                                                                     <div className="icon-box" style={{backgroundColor:'rgba(63,225,225,1);'}}
-                                                                        <img src="../choose-img2.png" alt="Image" className="img-fluid">
+                                                                        <img src="../choose-img2.PNG" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1071,7 +1071,7 @@ const nextjsapp = () => {
                                                         Experience</p>
                                                     <div className="userdata">
                                                         <span className="userimg">
-                                                            <img src="../Ellipse_24@2x.png" alt="image" />
+                                                            <img src="../Ellipse_24@2x.PNG" alt="image" />
                                                         </span>
                                                         <span className="userabout">
                                                             <h5>sara Sharma</h5>
@@ -1096,7 +1096,7 @@ const nextjsapp = () => {
                                                         Experience</p>
                                                     <div className="userdata">
                                                         <span className="userimg">
-                                                            <img src="../Ellipse_24@2x.png" alt="image" />
+                                                            <img src="../Ellipse_24@2x.PNG" alt="image" />
                                                         </span>
                                                         <span className="userabout">
                                                             <h5>sara Sharma</h5>
@@ -1120,7 +1120,7 @@ const nextjsapp = () => {
                                 <div className="counter-box py-3">
                                     <div className="counter-ico-wraper">
                                         <div className="counter-ico">
-                                            <img src="../airplane_1.png" alt="Image" className="img-fluid" />
+                                            <img src="../airplane_1.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                     <div className="counter-text">
@@ -1133,7 +1133,7 @@ const nextjsapp = () => {
                                 <div className="counter-box py-3">
                                     <div className="counter-ico-wraper">
                                         <div className="counter-ico">
-                                            <img src="../tourism.png" alt="Image" className="img-fluid" />
+                                            <img src="../tourism.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                     <div className="counter-text">
@@ -1146,7 +1146,7 @@ const nextjsapp = () => {
                                 <div className="counter-box py-3">
                                     <div className="counter-ico-wraper">
                                         <div className="counter-ico">
-                                            <img src="../hotel.png" alt="Image" className="img-fluid" />
+                                            <img src="../hotel.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                     <div className="counter-text">
@@ -1159,7 +1159,7 @@ const nextjsapp = () => {
                                 <div className="counter-box py-3">
                                     <div className="counter-ico-wraper">
                                         <div className="counter-ico">
-                                            <img src="../costumer.png" alt="Image" className="img-fluid" />
+                                            <img src="../costumer.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                     <div className="counter-text">
@@ -1183,7 +1183,7 @@ const nextjsapp = () => {
                                     <div className="blog-left">
                                         <div className="blog-card">
                                             <div className="blog-card-img">
-                                                <img src="../blog1croped.png" className="img-fluid" alt="image" />
+                                                <img src="../blog1croped.PNG" className="img-fluid" alt="image" />
                                                 <div className="blog-card-text">
                                                     <h5>The Ultimate Guide</h5>
                                                     <h5>to Climbing</h5>
@@ -1200,7 +1200,7 @@ const nextjsapp = () => {
                                                 <div className="blog-right-inner">
                                                     <div className="blog-card">
                                                         <div className="blog-card-img">
-                                                            <img src="../blog2croped.png" className="img-fluid" alt="image" />
+                                                            <img src="../blog2croped.PNG" className="img-fluid" alt="image" />
                                                             <div className="blog-card-text">
                                                                 <h5>12 Things i wouldd Tell Any </h5>
                                                                 <h5>New Traveler</h5>
@@ -1213,7 +1213,7 @@ const nextjsapp = () => {
                                                 <div className="blog-right-inner">
                                                     <div className="blog-card">
                                                         <div className="blog-card-img">
-                                                            <img src="../blog3croped.png" className="img-fluid" alt="image" />
+                                                            <img src="../blog3croped.PNG" className="img-fluid" alt="image" />
                                                             <div className="blog-card-text">
                                                                 <h5>The Ultimate Packing List</h5>
                                                                 <h5>for Travelers</h5>
@@ -1245,7 +1245,7 @@ const nextjsapp = () => {
                             <div className="col-lg-4 col-md-10 col-sm-12">
                                 <div className="about-right">
                                     <div className="about-right-img">
-                                        <img src="../aboutimg.png" alt="Image" className="img-fluid" />
+                                        <img src="../aboutimg.PNG" alt="Image" className="img-fluid" />
                                     </div>
                                 </div>
                             </div>
@@ -1262,14 +1262,14 @@ const nextjsapp = () => {
                                 <div className="col-lg-2 col-md-5 col-sm-12">
                                     <div className="about-bottom-card">
                                         <div className="about-bottom-logo">
-                                            <img src="../Tripocio_Logo.png" alt="Image" className="img-fluid" />
+                                            <img src="../Tripocio_Logo.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-2 col-md-5 col-sm-12">
                                     <div className="about-bottom-card">
                                         <div className="about-bottom-logo">
-                                            <img src="../Meta_Sky_Logo-08.png" alt="Image" className="img-fluid" />
+                                            <img src="../Meta_Sky_Logo-08.PNG" alt="Image" className="img-fluid" />
                                         </div>
                                     </div>
                                 </div>
